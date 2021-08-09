@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "creating a json package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NiaK-130"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Nia K",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.23.0",
+    "serve": "^12.0.0"
+  }
+}
